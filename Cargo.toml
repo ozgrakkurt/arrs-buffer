@@ -2,3 +2,8 @@
 name = "arrs-buffer"
 version = "0.0.1"
 edition = "2021"
+license = "MIT"
+description = "Zero-copy cache-aligned buffer implementation"
+homepage = "https://github.com/ozgrakkurt/arrs-buffer"
+repository = "https://github.com/ozgrakkurt/arrs-buffer"
+authors = ["Ozgur Akkurt <oezgurmakkurt@gmail.com>"]
