@@ -9,6 +9,7 @@ mod cold_load;
 
 pub use buffer::Buffer;
 pub use buffer_ref::BufferRef;
+pub use cold_load::cold_copy;
 
 /// Alignment of the Buffer memory
 pub const ALIGNMENT: usize = 64;
